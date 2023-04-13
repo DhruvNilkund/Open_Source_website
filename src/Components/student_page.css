@@ -1,0 +1,43 @@
+/* Center align the heading */
+.lo {
+    text-align: center;
+    /* font-family: Arial, sans-serif; */
+    font-size: 60px;
+    
+    /* background-image: url("https://img.freepik.com/free-photo/wall-wallpaper-concrete-colored-painted-textured-concept_53876-144339.jpg?size=626&ext=jpg"); */
+    margin: 0;
+    padding: 20px 20px;
+    
+  }
+  
+  /* Center align the buttons */
+  .cla {
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  /* Style the buttons */
+  .adddiv {
+   
+    /* background-color:#66BFBF; */
+    background-color:#127e36;
+    color: white;
+    padding: 5px 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 25px;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+  }
+  .bo{background-color:powderblue;}
+  /* Add a background image */
+  
+  
+  /* Add some spacing around the form */
+  body > form {
+    
+    margin: 50px;
+  }
